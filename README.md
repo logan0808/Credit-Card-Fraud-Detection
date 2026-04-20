@@ -2,7 +2,7 @@
 
 ** Author:** Shehu Olakunle Yunus  
 ** Completed:** 20th April 2026  
-**🔗 GitHub:** https://github.com/logan0808  
+** GitHub:** https://github.com/logan0808  
 
  End-to-end machine learning project for detecting fraudulent credit card transactions using imbalanced data.
  End-to-end machine learning project for detecting fraudulent transactions using imbalanced data.
