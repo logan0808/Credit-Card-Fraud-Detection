@@ -49,9 +49,12 @@ This project builds a machine learning model to identify fraudulent credit card 
  https://nbviewer.org/github/logan0808/Credit-Card-Fraud-Detection/blob/main/Credit-Card-Fraud-Detection.ipynb
 ---
 
-## Model Output
+## 📊 Model Output
+
+### Confusion Matrix
 ![Confusion Matrix](images/confusion_matrix_1.png)
 
+### Feature Importance
 ![Feature Importance](images/feature_importance_2.png)
 
 ---
