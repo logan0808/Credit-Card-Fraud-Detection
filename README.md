@@ -46,7 +46,8 @@ This project builds a machine learning model to identify fraudulent credit card 
 ---
 ## View Notebook
 
- https://nbviewer.org/github/logan0808/Credit-Card-Fraud-Detection/blob/main/Credit-Card-Fraud-Detection.ipynb
+[View full rendered notebook](https://nbviewer.org/github/logan0808/Credit-Card-Fraud-Detection/blob/main/Credit-Card-Fraud-Detection-2.ipynb)
+
 ---
 
 ## 📊 Model Output
@@ -95,6 +96,7 @@ This project builds a machine learning model to identify fraudulent credit card 
 - Source: [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - File: `creditcard.csv` (284,807 transactions)
 - Place the downloaded `creditcard.csv` in the root folder or create a `data/` folder and update the loading path in the notebook.
+- After downloading, place `creditcard.csv` in the root folder (same level as the notebook).
 
 ---
 ## How to Run
