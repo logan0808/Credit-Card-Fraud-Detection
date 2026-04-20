@@ -51,8 +51,10 @@ This project builds a machine learning model to identify fraudulent credit card 
 
 ## Model Output
 
-<image-card alt="Confusion Matrix" src="images/confusion_matrix_1.png" ></image-card>
-<image-card alt="Feature Importance" src="images/feature_importance_2.png" ></image-card>
+![Confusion Matrix](images/confusion_matrix_1.png)
+
+![Feature Importance](images/feature_importance_2.png)
+
 ---
 
 ## Key Insights
