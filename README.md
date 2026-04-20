@@ -1,10 +1,10 @@
 # Credit Card Fraud Detection using Machine Learning
 
 ** Author:** Shehu Olakunle Yunus  
-**📅 Completed:** 20th April 2026  
+** Completed:** 20th April 2026  
 **🔗 GitHub:** https://github.com/logan0808  
 
-🚀 End-to-end machine learning project for detecting fraudulent credit card transactions using imbalanced data.
+ End-to-end machine learning project for detecting fraudulent credit card transactions using imbalanced data.
  End-to-end machine learning project for detecting fraudulent transactions using imbalanced data.
 
 ---
@@ -50,7 +50,7 @@ This project builds a machine learning model to identify fraudulent credit card 
 
 ---
 
-## 📊 Model Results & Visualizations
+## Model Results & Visualizations
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix_1.png)
