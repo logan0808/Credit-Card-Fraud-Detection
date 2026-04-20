@@ -44,10 +44,18 @@ This project builds a machine learning model to identify fraudulent credit card 
 - Effective handling of imbalanced dataset  
 
 ---
+## View Notebook
+
+ [View Full Notebook](credit-card-fraud-detection.html)
+---
 
 ## Model Output
 
-(Add screenshots here)
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importance.png)
 
 ---
 
@@ -91,3 +99,10 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud
 Place the file `creditcard.csv` in the root directory of this project.
 
 ---
+## How to Run
+
+```bash
+git clone https://github.com/logan0808/Credit-Card-Fraud-Detection.git
+cd Credit-Card-Fraud-Detection
+
+pip install -r requirements.txt
