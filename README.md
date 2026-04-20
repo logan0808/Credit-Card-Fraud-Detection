@@ -46,7 +46,7 @@ This project builds a machine learning model to identify fraudulent credit card 
 ---
 ## View Notebook
 
- [View Full Notebook](credit-card-fraud-detection.html)
+ [View Full Notebook](Credit-Card-Fraud-Detection.html)
 ---
 
 ## Model Output
