@@ -50,21 +50,13 @@ This project builds a machine learning model to identify fraudulent credit card 
 
 ---
 
-## 📊 Model Output
+## 📊 Model Results & Visualizations
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix_1.png)
 
 ### Feature Importance
 ![Feature Importance](feature_importance_2.png)
-
-## 📊 Model Results & Visualizations
-
-### Confusion Matrix (Random Forest)
-![Confusion Matrix](images/confusion_matrix_1.png)
-
-### Top Feature Importances (Random Forest)
-![Feature Importance](images/feature_importance_2.png)
 
 **Key Observation**: The model achieves strong recall on the fraud class while keeping false positives manageable.
 
