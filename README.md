@@ -85,6 +85,9 @@ This project builds a machine learning model to identify fraudulent credit card 
 
 ## Dataset
 
-Dataset sourced from publicly available credit card fraud dataset (e.g., Kaggle).
+Download the dataset from Kaggle:  
+https://www.kaggle.com/mlg-ulb/creditcardfraud  
+
+Place the file `creditcard.csv` in the root directory of this project.
 
 ---
